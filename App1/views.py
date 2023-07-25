@@ -53,4 +53,8 @@ class Alldataget(APIView):
         return Response({"status":"success","data":serializer.data},status=status.HTTP_200_OK)
 
 
+classs(Apiasd):
+complete
+
+
 
